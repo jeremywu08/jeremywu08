@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jeremywu08
-- 👀 I’m interested in digging new technologies
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Jeremy
+<!-- 👀 I’m interested in digging new technologies-->
+- 🌱 I’m currently learning data analysis skills, such as Python, PowerBI tools to assist my work operate smoothly.
+  
 
 <!---
 jeremywu08/jeremywu08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
